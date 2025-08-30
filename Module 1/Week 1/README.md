@@ -5,7 +5,7 @@
 - [ ] **DDCA** Ch. 1–2  
 - [ ] **Nand2Tetris** Part I Project 1 spec  
 - [ ] **MIT 6.042J**: Propositional logic  
-- [ ] **Keshav**: _How to Read a Paper_
+- [x] **Keshav**: _How to Read a Paper_
 
 ---
 
